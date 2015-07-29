@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://rguimaraesr.github.io/sitemap.xml 
